@@ -1,0 +1,6 @@
+name: Fcore
+main: com.flubel.fcore.Fcore
+version: '1.0.0'
+api-version: 1.13
+authors: [ MrFiend179 ]
+description: Utility Plugin for Flubel's Plugins.
